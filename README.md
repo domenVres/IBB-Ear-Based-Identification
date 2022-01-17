@@ -8,7 +8,7 @@ I obtained the following accuracies:
 ![](accuracies.PNG)
 
 The rank curves on perfectly detected ears without preprocessing (except the required one for CNNs) are:
-![](Ranks.PNG)
+![](Ranks.png)
 
 ## References
 
